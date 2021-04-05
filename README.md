@@ -1,6 +1,8 @@
 # rikers-4031B
 A place for all the research I did for a report on the closing of Rikers Island (sources from Fall 2020).
 
+PDF files I used are shown above.
+
 Here's a list of some useful links:
 <ul>
   <li><a href="https://rikers.cityofnewyork.us/">The City's Rikers Plan Homepage</a> </li>
