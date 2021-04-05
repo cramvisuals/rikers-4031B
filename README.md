@@ -2,4 +2,10 @@
 A place for all the research I did on the proposed closing of Rikers Island (as of Fall 2020).
 
 Here's a list of some useful links:
-<a href="https://rikers.cityofnewyork.us/">The City's Rikers Plan Homepage</a>
+<ul>
+  <li><a href="https://rikers.cityofnewyork.us/">The City's Rikers Plan Homepage</a> </li>
+  <li></li>
+  <li></li>
+  <li></li>
+ </ul>
+
